@@ -1,0 +1,14 @@
+{
+  "name": "@josephg/gentoken",
+  "version": "1.0.0",
+  "description": "Generate secure random token in node or the browser",
+  "main": "index.js",
+  "browser": "index.web.js",
+  "types": "index.d.ts",
+  "license": "ISC",
+  "author": "Joseph Gentle <me@josephg.com>",
+  "devDependencies": {
+    "@types/node": "^14.0.13",
+    "typescript": "^3.9.5"
+  }
+}
