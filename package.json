@@ -10,5 +10,10 @@
   "devDependencies": {
     "@types/node": "^14.0.13",
     "typescript": "^3.9.5"
-  }
+  },
+  "files": [
+    "index.js",
+    "index.web.js",
+    "index.d.ts"
+  ]
 }
